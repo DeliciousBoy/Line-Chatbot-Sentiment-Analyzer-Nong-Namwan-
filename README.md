@@ -1,5 +1,5 @@
-# ตัวอย่างโค้ด Chatbot ที่ตอบกลับแบบ if-else
-
+# Sentiment in Line Chatbot
+หัวข้อใน twitter #ก้าวไกล
 ## ติดตั้งก่อน (กรณีไม่ได้รันในdocker)
 ```
 pip install -r requirements.txt
