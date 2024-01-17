@@ -1,1 +1,2 @@
+# .gitignore 
 Channel_access_token="pypiTw1zyF2VRQVuMTWiyKI6urXTf38ZcbHAWwX93079DZTeBN4UMATjWZjB1YvNK9akfDT0nMThJAxe6KjZsRM86X6K4NycZlsHOoPiL4N6cGdEPZGtKI6jiD4vt3wjemiARzg5HoekvLusrCsDdgdB04t89/1O/w1cDnyilFU="
